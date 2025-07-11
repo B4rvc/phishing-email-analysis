@@ -39,8 +39,3 @@ Este repositorio está pensado para:
 - Detección de correos falsos
 
 ---
-
-## 📬 Contacto
-
-¿Tienes dudas o sugerencias?  
-Abre una issue o escríbeme a: `tuemail@example.com`
