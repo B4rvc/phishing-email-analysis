@@ -10,7 +10,7 @@ Este contenido se comparte únicamente con fines educativos y de análisis de am
 
 ## 📄 Archivo incluido
 
-- `phishing-email.html`: Correo falso que intenta redirigir a una URL sospechosa (`https://t.co/LronhZZTiE `).
+- `phishing-email.html`: Correo falso que intenta redirigir a una URL sospechosa (`https://www.linkedin.com`).
 
 ---
 
