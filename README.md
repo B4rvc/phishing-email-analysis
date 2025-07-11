@@ -1,12 +1,46 @@
 # ⚠️ ADVERTENCIA DE SEGURIDAD ⚠️
 
-Este repositorio contiene un ejemplo de **correo electrónico de phishing** que imita un mensaje de Microsoft.
+Este repositorio contiene un ejemplo de **correo electrónico de phishing** que imita un mensaje urgente de Microsoft o Citrix.
 
-**No debes ejecutar ni abrir este archivo HTML en un entorno inseguro.**
+**NO debes abrir ni ejecutar este archivo HTML en un entorno no seguro.**
 
 Este contenido se comparte únicamente con fines educativos y de análisis de amenazas cibernéticas.
 
-## Contenido del correo:
-- Simulación de mensaje urgente sobre autenticación en Microsoft
-- Enlace sospechoso a dominio de corto plazo (`t.co`)
-- Técnicas de obfuscación de texto y estilo para evitar detección
+---
+
+## 📄 Archivo incluido
+
+- `phishing-email.html`: Correo falso que intenta redirigir a una URL sospechosa (`https://t.co/LronhZZTiE `).
+
+---
+
+## ⚠️ Notas importantes
+
+- El enlace contiene técnicas de obfuscación y podría llevar a una página maliciosa.
+- No se recomienda hacer clic en el enlace.
+- Si deseas analizarlo, hazlo solo en entornos seguros (sandbox, máquinas virtuales, etc.).
+
+---
+
+## 🛡️ Uso responsable
+
+Este repositorio está pensado para:
+- Investigadores de seguridad
+- Analistas de malware
+- Usuarios avanzados que quieren aprender a identificar correos phishing
+
+---
+
+## 🔍 ¿Qué puedes aprender?
+
+- Técnicas de phishing
+- Obfuscación de texto en HTML
+- Análisis de enlaces maliciosos
+- Detección de correos falsos
+
+---
+
+## 📬 Contacto
+
+¿Tienes dudas o sugerencias?  
+Abre una issue o escríbeme a: `tuemail@example.com`
